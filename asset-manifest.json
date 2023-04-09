@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51724a9b.css",
+    "main.js": "/static/js/main.2fbf585f.js",
+    "static/media/Maplestory Bold.ttf": "/static/media/Maplestory Bold.e39287220e971b277c0e.ttf",
+    "index.html": "/index.html",
+    "main.51724a9b.css.map": "/static/css/main.51724a9b.css.map",
+    "main.2fbf585f.js.map": "/static/js/main.2fbf585f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51724a9b.css",
+    "static/js/main.2fbf585f.js"
+  ]
+}
