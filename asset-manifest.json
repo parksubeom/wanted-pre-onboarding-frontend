@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wanted-pre-onboarding-frontend/static/css/main.ecee6302.css",
-    "main.js": "/wanted-pre-onboarding-frontend/static/js/main.989b0247.js",
+    "main.js": "/wanted-pre-onboarding-frontend/static/js/main.c82c22ca.js",
     "static/media/Maplestory Bold.ttf": "/wanted-pre-onboarding-frontend/static/media/Maplestory Bold.e39287220e971b277c0e.ttf",
     "index.html": "/wanted-pre-onboarding-frontend/index.html",
     "main.ecee6302.css.map": "/wanted-pre-onboarding-frontend/static/css/main.ecee6302.css.map",
-    "main.989b0247.js.map": "/wanted-pre-onboarding-frontend/static/js/main.989b0247.js.map"
+    "main.c82c22ca.js.map": "/wanted-pre-onboarding-frontend/static/js/main.c82c22ca.js.map"
   },
   "entrypoints": [
     "static/css/main.ecee6302.css",
-    "static/js/main.989b0247.js"
+    "static/js/main.c82c22ca.js"
   ]
 }
